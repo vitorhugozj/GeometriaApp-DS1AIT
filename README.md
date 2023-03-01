@@ -1,1 +1,0 @@
-# GeometriaApp-DS1AIT
